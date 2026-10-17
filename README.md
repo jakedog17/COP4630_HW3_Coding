@@ -1,2 +1,2 @@
-# COP4630_HW2_Coding
+# COP4630_HW3_Coding
 HW3 Notebook for Intro to AI 
